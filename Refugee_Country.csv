@@ -1,5 +1,4 @@
-REFUGEE ARRIVALS BY REGION AND COUNTRY OF NATIONALITY: FISCAL YEAR 2019,,,,
-Country of nationality,Quarter 1,Quarter 2,Quarter 3,Quarter 4
+CountryOfOrigin,Quarter 1,Quarter 2,Quarter 3,Quarter 4
 Afghanistan,115,101,366,616
 Armenia,D,D,14,14
 Belarus,38,46,12,-
@@ -37,15 +36,3 @@ Uganda,12,D,D,-
 Ukraine,953,594,955,"1,949"
 All other countries1,27,17,43,28
 Unknown2,-,1,17,12
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-D Data withheld to limit disclosure.,,,,
-'- Represents zero.,,,,
-1 Includes countries with fewer than 10 refugee arrivals per quarter.,,,,
-2 Includes admissions from Palestinian Territory.,,,,
-Note: Excludes Amerasian immigrants. Numbers in this table may differ from previously published figures due to updating of data series.,,,,
-Source: U.S. Department of State.,,,,

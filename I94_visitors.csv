@@ -1,5 +1,4 @@
-NONIMMIGRANT ADMISSIONS (I-94 ONLY) BY REGION AND COUNTRY OF CITIZENSHIP: FISCAL YEAR 2019,,,,
-Country of citizenship,Quarter 1,Quarter 2,Quarter 3,Quarter 4
+CountryOfCitizenship,Quarter 1,Quarter 2,Quarter 3,Quarter 4
 Afghanistan,672,692,867,969
 Albania,"5,540","4,074","6,224","5,619"
 Algeria,"3,519","2,985","3,614","5,945"
@@ -195,30 +194,3 @@ Yemen,300,277,422,531
 Zambia,"1,421","1,055","1,432","1,689"
 Zimbabwe,"3,298","2,681","3,538","3,829"
 Unknown,"24,135","16,879","22,845","22,058"
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-"1 Australia includes Australia, Norfolk Island, Christmas Island, and Cocos (Keeling) Islands.",,,,
-"2 China includes the People's Republic of China, Hong Kong, and Macau.",,,,
-"3 Denmark includes Denmark, Faroe Islands, and Greenland.",,,,
-"4 France includes France, French Guiana, French Polynesia, French Southern and Antarctic Lands, Guadeloupe, Martinique, Mayotte, New Caledonia, Reunion, Saint Barthelemy, Saint Pierre and Miquelon, and Wallis and Futuna.",,,,
-5 Morocco includes Morocco and Western Sahara.,,,,
-"6 Netherlands includes the Netherlands, Aruba, Bonaire, Curacao, Saba, Sint Eustatius, and Sint Maarten.",,,,
-"7 New Zealand includes New Zealand, Cook Islands, Niue, and Tokelau.",,,,
-"8 United Kingdom includes the United Kingdom, Anguilla, Bermuda, British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar, Guernsey, Isle of Man, Jersey, Montserrat, Pitcairn Islands, Saint Helena, and Turks and Caicos Islands.",,,,
-Notes:,,,,
-"Admissions represent counts of events, i.e., arrivals, not unique individuals; multiple entries of an individual on the same day are counted as one admission.",,,,
-The majority of short-term admissions from Canada and Mexico are excluded.,,,,
-Numbers in this table may differ from previously published figures due to updating of data series.,,,,
-Source: U.S. Department of Homeland Security.,,,,
-,,,,

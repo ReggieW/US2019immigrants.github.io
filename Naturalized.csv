@@ -1,5 +1,4 @@
-PERSONS NATURALIZED BY REGION AND COUNTRY OF NATIONALITY: FISCAL YEAR 2019,,,,
-Country of nationality,Quarter 1,Quarter 2,Quarter 3,Quarter 4
+CountryOfOrigin,Quarter 1,Quarter 2,Quarter 3,Quarter 4
 Afghanistan,392,568,793,"1,091"
 Albania,485,676,732,864
 Algeria,167,293,322,397
@@ -173,9 +172,3 @@ Zambia,83,92,99,128
 Zimbabwe,156,170,132,194
 All other countries1,50,73,70,67
 Unknown,161,335,314,461
-,,,,
-,,,,
-,,,,
-1 Includes countries with fewer than 10 naturalizations per quarter.,,,,
-Note: Based on N-400 data for persons aged 18 and over.  Numbers in this table may differ from previously published figures due to updating of data series.,,,,
-Source: U.S. Department of Homeland Security.,,,,
