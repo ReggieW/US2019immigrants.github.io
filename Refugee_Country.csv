@@ -1,11 +1,11 @@
 CountryOfOrigin,Quarter1,Quarter2,Quarter3,Quarter4
 Afghanistan,115,101,366,616
-Armenia,D,D,14,14
+Armenia,0,0,14,14
 Belarus,38,46,12,-
 Bhutan,14,5,3,10
 Burma,871,"1,193","1,584","1,284"
 Burundi,76,59,28,33
-Cameroon,D,D,11,12
+Cameroon,0,0,11,12
 Central African Republic,3,20,156,65
 Colombia,32,113,45,108
 "Congo, Democratic Republic","2,581","3,191","3,978","3,208"
@@ -16,23 +16,23 @@ Ethiopia,72,56,58,61
 Georgia,-,-,-,26
 Guatemala,6,24,31,57
 Honduras,15,11,20,28
-Iran,D,D,69,67
+Iran,0,0,69,67
 Iraq,28,140,158,139
-Kenya,11,D,D,D
+Kenya,11,0,0,0
 Kyrgyzstan,21,25,-,-
 Liberia,-,20,-,17
 Moldova,8,7,37,68
-Nepal,-,-,D,D
+Nepal,-,-,0,0
 Pakistan,74,45,102,43
 Russia,23,41,94,26
-Rwanda,66,16,D,D
-Senegal,D,-,D,10
+Rwanda,66,16,0,0
+Senegal,0,-,0,10
 Somalia,10,17,94,110
 South Sudan,-,5,28,9
 Sudan,40,84,120,138
 Syria,12,206,184,161
 Turkmenistan,-,-,15,3
-Uganda,12,D,D,-
+Uganda,12,0,0,-
 Ukraine,953,594,955,"1,949"
 All other countries1,27,17,43,28
 Unknown2,-,1,17,12
